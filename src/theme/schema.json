@@ -1,0 +1,46 @@
+{
+  "data" : {
+    "light" : {
+      "id": "T_001",
+      "name": "Light",
+      "colors": {
+        "body": "#FFFFFF",
+        "text": "#000000",
+        "button": {
+          "text": "#FFFFFF",
+          "background": "#cc0000"
+        },
+        "left": {
+          "background": "#cecece",
+          "text": "#2f4f4f"
+        },
+        "right": {
+          "background": "#ffffff",
+          "text": "#000000"
+        }
+      },
+      "font": "Tinos"
+    },
+    "dark" : {
+      "id": "T_007",
+      "name": "Sea Wave",
+      "colors": {
+        "body": "#FFFFFF",
+        "text": "#000000",
+        "button": {
+          "text": "#800080",
+          "background": "#f0f8ff"
+        },
+        "left": {
+          "background": "#ffffff",
+          "text": "#696969"
+        },
+        "right": {
+          "background": "#008080",
+          "text": "#ffffff"
+        }
+      },
+      "font": "Ubuntu"
+    }
+  }
+}
